@@ -78,6 +78,7 @@ export default function Favs() {
                   backgroundColor: '#ef4444',
                   color: '#ffffff',
                 }}
+                //o mais recente de todos
               >
                 💔 Remover Favorito
               </button>
